@@ -1,6 +1,7 @@
 
 public class TestRunner {
     public static void main(String[] args) {
+        System.out.println("Added");
         System.out.println("Hello World!");
         System.out.println("I hate Mondays");
         int x = 5;
